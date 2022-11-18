@@ -1,6 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-#### 깃허브 테스트
+# 배워가는 개발자 입니다.
+
+
+## 배우는 것
+
+
+## 
+<img src="https://img.shields.io/badge/#3776AB?style=for-the-badge&logo=Python&logoColor=black">
 
 <!--
 **0BackFlash0/0BackFlash0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
