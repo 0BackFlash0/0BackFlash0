@@ -1,13 +1,13 @@
-# Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Keep%20Going!&fontSize=90" />
 
 # 배워가는 개발자 입니다.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0BackFlash0&show_icons=true&theme=radical)
 
 ## 배우는 것
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=blue">
 
 
-## 
-<img src="https://img.shields.io/badge/#3776AB?style=for-the-badge&logo=Python&logoColor=black">
 
 <!--
 **0BackFlash0/0BackFlash0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
