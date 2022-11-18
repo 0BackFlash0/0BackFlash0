@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Keep%20Going!&fontSize=90" />
 
-# 배워가는 개발자 입니다.
+<h1 style="text-align:center;"> 배워가는 개발자 입니다. </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0BackFlash0&show_icons=true&theme=radical)
 
